@@ -12,7 +12,7 @@ Locations of files:
 	-Example: chat.exe 5555
 
 	
-> The chat.cpp file is under [project_1 >> code >> chat.cpp].
+> The chat.cpp file is under [project_1 >> code >> chat.cpp]
 > If you want to compile the chat.cpp file, run the build.bat which is in the code folder. 
 > In the build.bat file, it has the compile call and switches to chat.cpp.
 > When you run the build.bat file, the chat.exe will be made and located in the build folder.
